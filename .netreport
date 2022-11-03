@@ -1,0 +1,82 @@
+//....................... .Net ........................//
+
+.Net :- NET is a free, cross-platform, open source developer platform for building many different types of applications.
+         With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, games, IoT, and more.
+
+//....................... .Net Framework..................//
+
+.Net Framework :- It is a software development platform developed by Microsoft for building and running Windows applications. 
+                 The .Net framework consists of developer tools, programming languages, and libraries to build desktop and web applications. 
+                .NET applications are written in the C#, F#, or Visual Basic programming languag
+                 it is the original implementation of .NET and it supports running websites, services, desktop apps, and more on Windows.
+
+//.................. .Net Core..................//
+
+.NET Core :-  it is a cross-platform implementation for running websites, services, and console apps on Windows, Linux, and macOS.
+
+Characterstics of .Net core :-
+
+	Cross platform :-  Runs on Windows, macOS, and Linux operating systems.
+
+	Open source :-  The .NET Core framework is open source, using MIT and Apache 2 licenses. .NET Core is a .NET Foundation project.
+
+	Modern :-  It implements modern paradigms like asynchronous programming, no-copy patterns using struts’, and resource governance for containers.
+
+	Performance :-  Delivers high performance with features like hardware intrinsics, tiered compilation, 
+
+      Flexible Deployment :-  .NET Core application can be deployed user-wide or system-wide or with Docker Containers.
+
+      Supports Multiple Language s:-  You can use C#, F#, and Visual Basic programming languages to develop .
+
+//......................... .Net Component......................//
+
+.NET Components
+The architecture of .Net framework is based on the following key components;
+1. Common Language Runtime :-The “Common Language Infrastructure” or CLI is a platform in .Net architecture on which the .Net programs are executed.
+                             It provides services like thread management, garbage collection, type-safety, exception handling, and more.
+2. Class Library :- The .NET Framework includes a set of standard class libraries. A class library is a collection of methods and functions that can be used for the core purpose.
+                     The .Net framework was meant to create applications, which would run on the Windows Platform. 
+
+//.......................... ASP.Net and Ado.Net........................//
+
+ASP.NET :- It is a web framework designed and developed by Microsoft. It is used to develop websites, web applications, and web services. 
+           It provides a fantastic integration of HTML, CSS, and JavaScript. 
+
+ADO.Net – This technology is used to develop applications to interact with Databases such as Oracle or Microsoft SQL Server.
+
+//.....................Difference Between .Net core and .Net framework.............//
+
+Difference Between .net Core and .net framework
+
+Platform support :- .net core Windows,linux,mac,os
+                    .net Framework Windows only
+
+Architecture :- .net core Based on.net framework and core framework.
+                .net framework based on .net framework only.
+
+Components : - .net core MVC , Web pages,web form ,Web Api
+               .net framework web ui, MVC, Web Api
+
+Supported Files :- .net core not support for Global.asax files and web config.
+                   .net framework web config,global .asax.
+
+Visual stdio Support :- .net core Support all version.
+                        .net framework only the latest version.
+
+//................... Global.asax ................//
+
+Global.asax :- Global.asax is an optional file which is used to handling higher level application events such as Application_Start, Application_End, Session_Start, Session_End etc. 
+
+//.................. web Config......................//
+
+Web Config :- A configuration file (web.config) is used to manage various settings that define a website.
+             
+
+Why using web config file :-
+Database connections
+Caching settings
+Session States
+Error Handling
+Security
+               
+
